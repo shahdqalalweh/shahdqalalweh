@@ -1,16 +1,19 @@
-## Hi there 👋
+# Peace be upon you, folks 👋
 
-<!--
-**shahdqalalweh/shahdqalalweh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shahd Qalalweh, a senior Computer Systems Engineering student 👩‍💻
 
-Here are some ideas to get you started:
+These days, I'm working hard to improve my skills, explore new things, and build better code (or at least break things in creative ways 🤷‍♀️).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m learning and building with:
+- 💻 .NET (C#)
+- 📱 Flutter
+- 🐍 Python 
+
+Feel free to check out my projects — and if you have any feedback or comments on my code, I’d really appreciate it!
+
+---
+
+## 📬 Contact Me
+
+- 📧 shahdqalalweh2003@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shahdqalalweh/)
