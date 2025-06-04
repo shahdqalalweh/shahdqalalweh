@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shahdqalalweh/count.svg" alt="Profile views" />
+</p>
+
 # Peace be upon you, folks 👋
 
 I'm Shahd Qalalweh, a senior Computer Systems Engineering student 👩‍💻
@@ -17,4 +21,3 @@ Feel free to check out my projects — and if you have any feedback or comments 
 
 - 📧 shahdqalalweh2003@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shahdqalalweh/)
-![Profile views](https://profile-counter.glitch.me/shahdqalalweh/count.svg)
