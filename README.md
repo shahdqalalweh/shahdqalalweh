@@ -9,7 +9,7 @@ I’m learning and building with:
 - 📱 Flutter  
 - 🐍 Python  
 
-📄 You can view my **CV [here](https://drive.google.com/file/d/1H7eBFYqZS-7Mq24vs_fUt2GdvzHQ8k7t/view?usp=sharing)**  
+📄 You can view my **CV [here](https://drive.google.com/file/d/1ITwl8ulzavwW4GaoDBTcL_BaRdFNHm8e/view?usp=sharing)**  
 
 Feel free to explore my projects — and I’d be glad to hear your thoughts or feedback! 🚀  
 
