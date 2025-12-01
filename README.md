@@ -1,21 +1,48 @@
-# Peace be upon you, folks 👋
+👋 Hi, I'm Shahd Qalalweh
 
-I'm **Shahd Qalalweh**, a senior Computer Systems Engineering student 👩‍💻  
+I'm a Computer Systems Engineering student passionate about building clean and scalable software solutions.
+Currently, I’m focusing on two main tracks:
 
-Currently, I’m focusing on sharpening my technical skills, exploring new technologies, and writing cleaner (sometimes creative) code.  
+💻 Backend Development
 
-I’m learning and building with:  
-- 💻 .NET (C#)  
-- 📱 Flutter  
-- 🐍 Python  
+Developing RESTful APIs using C# and .NET Core, following clean architecture, repository patterns, and best backend practices.
 
-📄 You can view my **CV [here](https://drive.google.com/file/d/1ITwl8ulzavwW4GaoDBTcL_BaRdFNHm8e/view?usp=sharing)**  
+📊 Data Engineering
 
-Feel free to explore my projects — and I’d be glad to hear your thoughts or feedback! 🚀  
+Building my foundation in data pipelines, data processing, data extraction, and workflow automation.
 
----
+🚀 What I’m Working On
 
-## 📬 Contact Me  
+Backend development with ASP.NET Core
 
-- 📧 shahdqalalweh2003@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shahdqalalweh/)  
+Improving my skills in SQL, databases, and system design
+
+Learning data engineering concepts and applying them to small projects
+
+Enhancing my problem-solving skills through algorithms and LeetCode
+
+🌱 Current Goals
+
+Become a strong backend engineer
+
+Build data-driven backend solutions by combining backend + data engineering
+
+Develop real projects that reflect professional, production-level code
+
+Contribute more to open-source and publish technical projects on GitHub
+
+🛠️ Technologies & Tools
+
+Languages: C#, Python, SQL
+
+Frameworks: .NET Core, Entity Framework Core
+
+Databases: SQL Server, PostgreSQL
+
+Tools: Git, Postman, Docker
+
+Interests: Data Engineering, Cloud, APIs, System Design
+
+📫 Connect with Me
+
+Feel free to reach out or check my work across different platforms!
